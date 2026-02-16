@@ -1,0 +1,11 @@
+C:\Radio\Rack\WifiSocketTEst\WifiSocketTEst\bin\Debug\WifiSocketTEst.exe.config
+C:\Radio\Rack\WifiSocketTEst\WifiSocketTEst\bin\Debug\WifiSocketTEst.exe
+C:\Radio\Rack\WifiSocketTEst\WifiSocketTEst\bin\Debug\WifiSocketTEst.pdb
+C:\Radio\Rack\WifiSocketTEst\WifiSocketTEst\obj\Debug\WifiSocketTEst.csproj.AssemblyReference.cache
+C:\Radio\Rack\WifiSocketTEst\WifiSocketTEst\obj\Debug\WifiSocketTEst.csproj.SuggestedBindingRedirects.cache
+C:\Radio\Rack\WifiSocketTEst\WifiSocketTEst\obj\Debug\WifiSocketTEst.Form1.resources
+C:\Radio\Rack\WifiSocketTEst\WifiSocketTEst\obj\Debug\WifiSocketTEst.Properties.Resources.resources
+C:\Radio\Rack\WifiSocketTEst\WifiSocketTEst\obj\Debug\WifiSocketTEst.csproj.GenerateResource.cache
+C:\Radio\Rack\WifiSocketTEst\WifiSocketTEst\obj\Debug\WifiSocketTEst.csproj.CoreCompileInputs.cache
+C:\Radio\Rack\WifiSocketTEst\WifiSocketTEst\obj\Debug\WifiSocketTEst.exe
+C:\Radio\Rack\WifiSocketTEst\WifiSocketTEst\obj\Debug\WifiSocketTEst.pdb

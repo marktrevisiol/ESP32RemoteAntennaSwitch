@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WifiSocketTEst.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Antenna1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Antenna 1</Value>
+    </Setting>
+    <Setting Name="Antenna2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Antenna 2</Value>
+    </Setting>
+    <Setting Name="Antenna3" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Antenna 3</Value>
+    </Setting>
+    <Setting Name="Antenna4" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Antenna 4</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

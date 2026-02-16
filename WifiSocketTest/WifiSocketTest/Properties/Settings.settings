@@ -14,5 +14,14 @@
     <Setting Name="Antenna4" Type="System.String" Scope="User">
       <Value Profile="(Default)">Antenna 4</Value>
     </Setting>
+    <Setting Name="RemoteIP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.0.152</Value>
+    </Setting>
+    <Setting Name="RemotePort" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">8000</Value>
+    </Setting>
+    <Setting Name="TimerUpdate" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1000</Value>
+    </Setting>
   </Settings>
 </SettingsFile>

@@ -70,5 +70,41 @@ namespace WifiSocketTEst.Properties {
                 this["Antenna4"] = value;
             }
         }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("192.168.0.152")]
+        public string RemoteIP {
+            get {
+                return ((string)(this["RemoteIP"]));
+            }
+            set {
+                this["RemoteIP"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("8000")]
+        public int RemotePort {
+            get {
+                return ((int)(this["RemotePort"]));
+            }
+            set {
+                this["RemotePort"] = value;
+            }
+        }
+        
+        [global::System.Configuration.UserScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.DefaultSettingValueAttribute("1000")]
+        public int TimerUpdate {
+            get {
+                return ((int)(this["TimerUpdate"]));
+            }
+            set {
+                this["TimerUpdate"] = value;
+            }
+        }
     }
 }

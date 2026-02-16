@@ -23,8 +23,8 @@ namespace WifiSocketTEst
       public Form1()
       {
          InitializeComponent();
-         ipAddress = IPAddress.Parse("192.168.0.152");
-         remoteEP = new IPEndPoint(ipAddress, 8000);
+         ipAddress = IPAddress.Parse(Properties.Settings.Default.RemoteIP);
+         remoteEP = new IPEndPoint(ipAddress, Properties.Settings.Default.RemotePort);
          AntButtons = new Button[4];
          AntButtons[0] = SendaBtn;
          AntButtons[1] = SendbBtn;
@@ -34,6 +34,7 @@ namespace WifiSocketTEst
          SendbBtn.Text = Properties.Settings.Default.Antenna2;
          SendcBtn.Text = Properties.Settings.Default.Antenna3;
          SenddBtn.Text = Properties.Settings.Default.Antenna4;
+         timer1.Interval = Properties.Settings.Default.TimerUpdate;
       }
 
       public int SendGetResponse(out string response, string message)

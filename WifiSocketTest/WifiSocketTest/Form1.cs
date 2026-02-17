@@ -80,7 +80,6 @@ namespace WifiSocketTEst
                color = Color.Green;
             AntButtons[i].BackColor = color;
          }
-         // writelog("Status " + response);
       }
 
 
